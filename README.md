@@ -1,7 +1,9 @@
 # GISS Resource Page
 
 ## Goal
-The goal of these scripts is to create a one-stop-shop for DNR GISS
+The goal of these scripts is to create a one-stop-shop for DNR GISS. Network location is here:
+
+\\dnr\divisions\RP_GIS\users\bsan490\GISS Resource Page
 
 ## Components
 
